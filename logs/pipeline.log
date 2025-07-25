@@ -1,0 +1,9 @@
+2025-07-25 21:21:30,174 - root - INFO - setup_logging:80 - Logging configuration completed
+2025-07-25 21:21:30,175 - root - INFO - setup_environment:44 - Environment setup completed
+2025-07-25 21:21:30,175 - root - INFO - run_full_pipeline:48 - Starting full pipeline execution
+2025-07-25 21:21:30,175 - orchestration.pipeline_orchestrator - WARNING - load_config:21 - Config file config/pipeline_config.json not found. Using defaults.
+2025-07-25 21:21:30,176 - orchestration.pipeline_orchestrator - INFO - run_full_pipeline:175 - Starting full pipeline execution...
+2025-07-25 21:21:30,176 - orchestration.pipeline_orchestrator - INFO - run_data_collection:50 - Starting data collection...
+2025-07-25 21:21:30,177 - orchestration.pipeline_orchestrator - ERROR - run_data_collection:65 - Data collection failed: attempted relative import beyond top-level package
+2025-07-25 21:21:30,178 - orchestration.pipeline_orchestrator - INFO - run_full_pipeline:210 - Pipeline execution completed. Success: False
+2025-07-25 21:21:30,178 - root - ERROR - run_full_pipeline:58 - Pipeline execution failed
