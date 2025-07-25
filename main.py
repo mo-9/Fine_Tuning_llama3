@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 AI Engineer Pipeline - Main Entry Point
 
